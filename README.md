@@ -1,41 +1,38 @@
-# Hi, I'm Aditya Kr Singh
+### 🎓 Student | 💻 Programmer | 🔧 Electronics Enthusiast
 
-### Student • Programmer • Electronics & Embedded Systems Enthusiast
+I'm a student who enjoys **programming, electronics, embedded systems, and web development (kind of)**.
 
-I'm a student who enjoys building things with **software, electronics, and microcontrollers**.
-
-I like learning by experimenting — writing code, connecting hardware, testing ideas, fixing what breaks, and turning small ideas into working projects.
+I love turning ideas into real projects and experimenting with different hardware and software.
 
 ---
 
-## About Me
+## 🚀 About Me
 
-- Learning **C, Python, JavaScript, and web development**
-- Building and experimenting with **Arduino and ESP8266**
-- Interested in **RFID, GSM, sensors, displays, and IoT**
-- Enjoy solving problems and understanding how things work
-- Always learning, experimenting, and building new things
+- 💻 Learning programming & web development
+- 📡 Love experimenting with RFID, GSM, sensors & IoT
+- 🧠 Improving my problem-solving skills
+- ⚡ Learning and building new things
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Programming
+### 💻 Programming
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Web Development
+### 🌐 Web
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### Electronics & Embedded Systems
+### 🔧 Electronics
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
 
-### Tools
+### 🧰 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -43,48 +40,29 @@ I like learning by experimenting — writing code, connecting hardware, testing 
 
 ---
 
-## Things I Like Building
+## 🔧 Projects & Interests
 
-- RFID-based projects
-- GSM and communication projects
-- Arduino-based electronics
-- ESP8266 / IoT projects
-- Sensor and display projects
-- Microcontroller-based automation
-- Programming and web-development projects
+- 📡 GSM & ESP Projects
+- 🌐 IoT Projects
+- 🤖 Arduino Projects
 
 ---
 
-## Hardware I Work With
+## 📊 GitHub Stats
 
-- Arduino Uno
-- Arduino Nano
-- Arduino Pro Micro
-- ESP8266 / NodeMCU
-- RFID modules
-- SIM800L GSM module
-- Bluetooth modules
-- Ultrasonic sensors
-- OLED & LCD displays
-- Lithium batteries & charging modules
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aapka-mittra&show_icons=true&theme=dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aapka-mittra&theme=dark&hide_border=true" height="180"/>
+</p>
 
 ---
 
-## Currently Learning
+## 👀 Profile Views
 
-```text
-Programming
-├── C
-├── Python
-└── JavaScript
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aapka-mittra&style=for-the-badge"/>
+</p>
 
-Embedded Systems
-├── Arduino
-├── ESP8266
-├── RFID
-├── GSM
-└── Sensors
+---
 
-Web Development
-├── HTML
-└── JavaScript
+**Thanks for visiting my profile!**
