@@ -1,4 +1,4 @@
-# Hi, I'm aapka-mittra
+# Hi, I'm Aditya Kr Singh
 
 ### Student • Programmer • Electronics & Embedded Systems Enthusiast
 
